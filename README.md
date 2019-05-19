@@ -9,8 +9,8 @@ ScreenShots in public/img folder.
 Installation:
 
 1. Put on your server
-2.Create database
-3.Edit the configuration in the .env and config/app.php files
+2. Create database
+3. Edit the configuration in the .env and config/app.php files
 4. Artisan generate key
 5. Artisan migrate
 6. Artisan seed and you will have a user test@example.com with pass 12345678 for the Laravel client app.
