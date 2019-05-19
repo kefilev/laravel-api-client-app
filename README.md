@@ -1,7 +1,7 @@
-# laravel-api-client-app
 # API client application with Laravel / API consuming app
+laravel-api-client-app
 
-Laravel 5.8 API client application (API consuming app)
+Using Laravel 5.8
 by Anton Kefilev
 
 ScreenShots in public/img folder.
