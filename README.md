@@ -15,3 +15,6 @@ Installation:
 5. Artisan migrate
 6. Artisan seed and you will have a user test@example.com with pass 12345678 for the Laravel client app.
 7. From the API that you are going to access you will need user id and pass. The API in this example uses OAuth2 standard.
+
+Screenshots:
+![welcome screen](public/img/01-welcome-screen.jpg)
