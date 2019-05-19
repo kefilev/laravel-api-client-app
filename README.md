@@ -19,4 +19,4 @@ Screenshots in public/img folder:
 ![welcome screen](public/img/02-home.jpg)
 ![welcome screen](public/img/03-access.jpg)
 ![welcome screen](public/img/04-services.jpg)
-![welcome screen](public/img/05-service-details.jpg
+![welcome screen](public/img/05-service-details.jpg)
