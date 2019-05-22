@@ -79,7 +79,8 @@ class ApiRepository implements ApiRepositoryInterface
      *
      * @return array
      */
-    public function getAccess($request) {
+    public function getAccess($request) 
+    {
         
         try {     
             $response = $this->client->request('POST', config('app.api_url').'/oauth2/access-token', [
